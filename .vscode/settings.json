@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.html.erb": "html",
+    "*.erb": "html",
+    "stdio.h": "c"
+  }
+}
